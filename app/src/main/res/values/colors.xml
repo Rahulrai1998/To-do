@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#03DAC5</color>
-    <color name="colorPrimaryDark">#009999</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#33ccff</color>
+    <color name="colorPrimaryDark">#0086b3</color>
+    <color name="colorAccent">#33ccff</color>
     <color name="task_color">#000000</color>
+    <color name="btn_disabled_gray">#e6e6e6</color>
 </resources>
